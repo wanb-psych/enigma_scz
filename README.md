@@ -65,4 +65,5 @@ This repository contains scripts and notebooks for processing cortical thickness
 - Scikit-learn
 - Statsmodel
 - NetworkX
+- pyGAM
 --------------------------
